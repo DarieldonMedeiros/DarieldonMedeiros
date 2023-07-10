@@ -19,8 +19,8 @@
 ## Principais Editores de Código: 
 
 <div style="display: inline_block"><br>
-   <img align="center" alt="VScode" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
-   <img align="center" alt="Eclipse" height="60" width="80" src="./.github/workflows/EClipse.svg">
+   <img align="center" alt="VScode" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
+   <img align="center" alt="Eclipse" height="40" width="60" src="./.github/workflows/Eclipse IDE.svg">
 </div>
 </br>
 
