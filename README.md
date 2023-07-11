@@ -1,4 +1,6 @@
 ## Olá! Eu sou o Darieldon Medeiros!
+- 👜 Atuamente estou estudando HTML/CSS/Javascript!
+- 🤖 Estou em busca de me tornar um programador!
 
  <div>
    <a href="https://github.com/DarieldonMedeiros">
