@@ -25,7 +25,7 @@ Eu me chamo Darieldon Medeiros, tenho 28 anos. Sou Engenheiro Eletricista, pós-
 
 <div style="display: inline_block"><br>
    <img align="center" alt="VScode" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
-   <img align="center" alt="Eclipse" height="40" width="60" src="./.github/workflows/Eclipse IDE.svg">
+   <img align="center" alt="Eclipse" height="40" width="60" src="./Eclipse IDE.svg">
 </div>
 </br>
 
