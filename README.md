@@ -7,7 +7,7 @@ Eu me chamo Darieldon Medeiros, tenho 28 anos. Sou Engenheiro Eletricista, pós-
 
  <div>
    <a href="https://github.com/DarieldonMedeiros">
-   <img height="180em" src=""/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DarieldonMedeiros&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarieldonMedeiros&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 
