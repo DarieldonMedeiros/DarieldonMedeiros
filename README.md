@@ -1,6 +1,6 @@
 ## Darieldon de Brito Medeiros!
 
-Eu me chamo Darieldon Medeiros, tenho 28 anos. Sou Engenheiro Eletricista, pós-graduado em Engenharia de Software.
+Eu me chamo Darieldon Medeiros, tenho 29 anos. Sou Engenheiro Eletricista, pós-graduado em Engenharia de Software.
 
 - 👜 Atuamente estou estudando HTML/CSS/Javascript!
 - 🤖 Estou em busca de me tornar um programador!
