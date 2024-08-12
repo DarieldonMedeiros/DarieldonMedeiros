@@ -3,6 +3,7 @@
 Eu me chamo Darieldon Medeiros, tenho 29 anos. Sou Engenheiro Eletricista, pós-graduado em Engenharia de Software.
 
 - 👜 Atuamente estou estudando HTML/CSS/Javascript!
+- 📓 Possuo conhecimento em Java, Python, Matlab e C++.
 - 🤖 Estou em busca de me tornar um programador!
 
  <div>
