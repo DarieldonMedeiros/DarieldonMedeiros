@@ -14,18 +14,20 @@ Eu me chamo Darieldon Medeiros, tenho 29 anos. Sou Engenheiro Eletricista, pós-
 ## Principais Linguagens de Programação:
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/javascript/javascript-original.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/css3/css3-original.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/java/java-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original.svg">
 </div> 
 <br>
 
 ## Principais Editores de Código: 
 
 <div style="display: inline_block"><br>
-   <img align="center" alt="VScode" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
-   <img align="center" alt="Eclipse" height="40" width="60" src="./Eclipse IDE.svg">
+   <img align="center" alt="VScode" height="40" width="60" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/vscode/vscode-original.svg">
+   <img align="center" alt="Eclipse" height="40" width="60" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/eclipse/eclipse-original.svg">
+   <img align="center" alt="IntelliJ" height="40" width="60" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/intellij/intellij-original.svg">
 </div>
 </br>
 
