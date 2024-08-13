@@ -9,7 +9,7 @@ Eu me chamo Darieldon Medeiros, tenho 29 anos. Sou Engenheiro Eletricista, pós-
  <div>
    <a href="https://github.com/DarieldonMedeiros">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DarieldonMedeiros&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarieldonMedeiros&show=python,java&theme=radical&layout=compact&langs_count=10/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarieldonMedeiros&show=python,java&theme=radical&layout=compact&langs_count=10"/>
 </div>
 
 ## Principais Linguagens de Programação:
