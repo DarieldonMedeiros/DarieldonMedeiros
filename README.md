@@ -6,9 +6,11 @@ Eu me chamo Darieldon Medeiros, tenho 29 anos. Sou Engenheiro Eletricista, pós-
 - 📓 Possuo conhecimento em Java, Python, Matlab e C++.
 - 🤖 Estou em busca de me tornar um programador!
 
-
-![Darieldon's GitHub stats](https://github-readme-stats.vercel.app/api?username=DarieldonMedeiros&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarieldonMedeiros&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+ <div>
+   <a href="https://github.com/DarieldonMedeiros">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DarieldonMedeiros&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarieldonMedeiros&layout=compact&langs_count=6&theme=tokyonight"/>
+</div>
 
 ## Principais Linguagens de Programação:
 
