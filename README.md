@@ -6,9 +6,10 @@ Eu me chamo Darieldon Medeiros, tenho 29 anos. Sou Engenheiro Eletricista, pós-
 - 📓 Possuo conhecimento em Java, Python, Matlab e C++.
 - 🤖 Estou em busca de me tornar um programador!
 
+
+[![Darieldon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darieldon)](https://github.com/anuraghazra/github-readme-stats)
  <div>
    <a href="https://github.com/DarieldonMedeiros">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DarieldonMedeiros&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarieldonMedeiros&show=python,java&theme=radical&layout=compact&langs_count=10"/>
 </div>
 
