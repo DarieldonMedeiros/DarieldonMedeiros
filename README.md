@@ -8,7 +8,7 @@ Eu me chamo Darieldon Medeiros, tenho 29 anos. Sou Engenheiro Eletricista, pós-
 
 
 ![Darieldon's GitHub stats](https://github-readme-stats.vercel.app/api?username=DarieldonMedeiros&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DatieldonMedeiros&layout=donut&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarieldonMedeiros&layout=donut&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Principais Linguagens de Programação:
 
