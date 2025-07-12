@@ -15,10 +15,10 @@ Eu me chamo Darieldon Medeiros, tenho 30 anos. Sou Engenheiro Eletricista, pós-
 ## Principais Linguagens de Programação:
 
 <div style="display: inline_block"><br>
+  <img align="center" alt="Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/java/java-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/javascript/javascript-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/css3/css3-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/java/java-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original.svg">
 </div> 
 <br>
