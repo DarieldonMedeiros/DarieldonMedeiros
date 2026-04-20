@@ -12,7 +12,7 @@ Sou Engenheiro Eletricista, pós-graduado em Engenharia de Software e apaixonado
 
 ## 🚀 Sobre mim
 
-- 👨‍🎓 30 anos, brasileiro
+- 👨‍🎓 31 anos, Brasileiro
 - 💻 Atualmente estudando **Spring Boot e Python**
 - ☕ Conhecimento em **Java, Python, Matlab e C++**
 - 🤖 Em busca de evolução constante na área de tecnologia
