@@ -4,7 +4,7 @@
 
 # 👋 Olá, eu sou o Darieldon!
 
-Sou Engenheiro Eletricista, pós-graduado em Engenharia de Software e apaixonado por tecnologia. Estou migrando para a área de programação e buscando minha primeira oportunidade como desenvolvedor.
+Sou Engenheiro Eletricista, pós-graduado em Engenharia de Software e apaixonado por tecnologia. Atualmente sou dese.
 
 > 💡 “Transformando energia em código!”
 
@@ -25,13 +25,13 @@ Sou Engenheiro Eletricista, pós-graduado em Engenharia de Software e apaixonado
 ### **Linguagens:**
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/java/java-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/javascript/javascript-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/css3/css3-original.svg">
-  <img align="center" alt="Matlab" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/matlab/matlab-original.svg">
-  <img align="center" alt="C++" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="Java" height="40" width="60" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/java/java-original.svg">
+  <img align="center" alt="Python" height="40" width="60" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original.svg">
+  <img align="center" alt="Js" height="40" width="60" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/javascript/javascript-original.svg">
+  <img align="center" alt="HTML" height="40" width="60" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="40" width="60" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/css3/css3-original.svg">
+  <img align="center" alt="Matlab" height="40" width="60" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/matlab/matlab-original.svg">
+  <img align="center" alt="C++" height="40" width="60" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/cplusplus/cplusplus-original.svg">
 </div>
 
 ### **Editores:**
@@ -42,11 +42,21 @@ Sou Engenheiro Eletricista, pós-graduado em Engenharia de Software e apaixonado
    <img align="center" alt="IntelliJ" height="40" width="60" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/intellij/intellij-original.svg">
 </div>
 
+### **Bancos de Dados, Ferramentas e Frameworks:**
+
+<div style="display: inline_block"><br>
+    <img align="center" alt="Postgres" height="40" width="60" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postgresql/postgresql-plain.svg">
+    <img align="center" alt="Postman" height="40" width="60" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postman/postman-original.svg">
+    <img align="center" alt="Git" height="40" width="60" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/git/git-original.svg">
+    <img align="center" alt="Docker" height="40" width="60" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/docker/docker-original.svg">
+    <img align="center" alt="Spring" height="40" width="60" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/spring/spring-original.svg">
+</div>
+
 ---
 
 ## 💡 Projetos em Destaque
 
-- [Desafio Spring Boot](https://github.com/DarieldonMedeiros/DesafioSpringBoot) — Desafio utilizando o framework .
+- [Desafio Spring Boot](https://github.com/DarieldonMedeiros/DesafioSpringBoot) — Desafio utilizando o framework Spring.
 
 ---
 
