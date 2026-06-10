@@ -54,9 +54,15 @@ Sou Engenheiro Eletricista, pós-graduado em Engenharia de Software e apaixonado
 
 - ✅ Graduação em Engenharia Elétrica
 - ✅ Pós-graduação em Engenharia de Software
-- ✅ Concluir curso Java COMPLETO: Do Zero ao Profissional + Projetos!
+- ✅ Curso Java COMPLETO: Do Zero ao Profissional + Projetos! - Concluído!
+- ✅ Conseguir minha primeira vaga como dev!
+- ⏳ Curso em andamento: Java COMPLETO Programação Orientada a Objetos + Projetos
 - ⏳ Curso em andamento: Spring Boot Expert: JPA, REST, JWT, OAuth2 com Docker e AWS
-- ⏳ Conseguir minha primeira vaga como dev!
+- ⏳ Curso em andamento: Java Unit Testing com Spring Boot, TDD, Junit e Mockito
+- ⏳ Curso em andamento: Testes Unitários em Java Utilizando o JUnit
+- ⏳ Curso em andamento: Curso de Python 3 do básico ao avançado - com projetos reais
+- ⏳ Curso em andamento: Microsserviços 2026 c. Spring Cloud Boot Kubernetes e Docker
+- ⏳ Curso em andamento: Spring Boot 2026 REST API's do 0 à AWS e GCP c Java e Docker
 
 ---
 
