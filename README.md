@@ -4,7 +4,7 @@
 
 # 👋 Olá, eu sou o Darieldon!
 
-Sou Engenheiro Eletricista, pós-graduado em Engenharia de Software e apaixonado por tecnologia. Atualmente sou dese.
+Sou Engenheiro Eletricista, pós-graduado em Engenharia de Software e apaixonado por tecnologia. Atualmente sou deseenvolvedor Java Junior.
 
 > 💡 “Transformando energia em código!”
 
